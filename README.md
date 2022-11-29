@@ -3,10 +3,11 @@
 - 🔭 Estou em transição de carreira
 - ♾  Neuroatípica: Autismo e AH/SD
 - 🌈 Pronomes: ela/dela
+- <a href="https://siteada.jessicahirota.repl.co" target="_blank">Projeto Programaria</a>
 
 <div>
-  <a href="www.linkedin.com/in/jessicahirota"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- </div>
+	<a href="www.linkedin.com/in/jessicahirota"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <div>
   <a href="https://github.com/jehirota">
