@@ -12,8 +12,7 @@
 <div>
   <a href="https://github.com/jehirota">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jehirota&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehirota&layout=compact&langs_count=16&theme=dark"/></a>
-</div>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
