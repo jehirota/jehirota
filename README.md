@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/jehirota">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jehirota&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehirota&layout=compact&langs_count=16&theme=dark"/></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jehirota&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehirota&layout=compact&langs_count=16&theme=dark"/></a>
 </div>
 
 <div style="display: inline_block"><br>
